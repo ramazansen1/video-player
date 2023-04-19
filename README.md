@@ -14,4 +14,4 @@ Functions such as speeding up, slowing down, 5 seconds forward and backward have
 
 # Custom Video Player View
 
-<img src="images/screen-view.gif">
+<img src="video/screen-view.gif">
